@@ -5,8 +5,8 @@
 .bg-violet {
     background-color: #6964e2;
 }
-.br {
-    border-radius: 10%;
+.color {
+    color: #6964e2;
 }
 
 .logo {
@@ -16,4 +16,20 @@
 }
 svg {
     margin-right: 10px;
+}
+.div-1 {
+    height: 350px;
+}
+.div-4 {
+    position: relative;
+    top: -280px
+}
+.div-2 {
+    width: 100px;
+    height: 30px;
+}
+.div-3 {
+    height: 150px;
+    width: 150px;
+    margin: 40px 20px;
 }
