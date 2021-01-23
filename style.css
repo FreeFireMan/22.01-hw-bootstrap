@@ -8,6 +8,19 @@
 .color {
     color: #6964e2;
 }
+.h150 {
+    height: 150px;
+}
+.w150 {
+    width: 150px;
+}
+.m40 {
+    margin-top: 40px;
+}
+.m20 {
+    margin: 0 20px;
+}
+
 
 .div-1 {
     height: 350px;
@@ -33,8 +46,7 @@ h1 {
     width: 120px;
     height: 30px;
 }
-.div-3 {
-    height: 150px;
-    width: 150px;
-    margin: 40px 20px;
+h2 {
+    margin-top: 20px;
 }
+
