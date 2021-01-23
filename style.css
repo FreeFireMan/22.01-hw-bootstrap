@@ -9,6 +9,15 @@
     color: #6964e2;
 }
 
+.div-1 {
+    height: 350px;
+    margin-top: 90px;
+}
+
+.container {
+    position: relative;
+    top: -440px;
+}
 .logo {
     height: 50px;
     width: 110px;
@@ -17,18 +26,14 @@
 svg {
     margin-right: 10px;
 }
-.div-1 {
-    height: 350px;
+h1 {
+    margin-top: 80px;
 }
 .div-2 {
-    position: relative;
-    top: -280px
-}
-.div-3 {
     width: 120px;
     height: 30px;
 }
-.div-4 {
+.div-3 {
     height: 150px;
     width: 150px;
     margin: 40px 20px;
