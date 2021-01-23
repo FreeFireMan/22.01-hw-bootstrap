@@ -20,6 +20,12 @@
 .m20 {
     margin: 0 20px;
 }
+.w30 {
+    width: 30%
+}
+.w90 {
+    width: 90%;
+}
 
 
 .div-1 {
@@ -47,6 +53,19 @@ h1 {
     height: 30px;
 }
 h2 {
-    margin-top: 20px;
+    margin-top: 40px;
 }
+img {
+    height: 200px;
+}
+.card {
+    border: none;
+}
+.carousel-inner {
+    margin-left: 9%;
+}
+.arrow {
+    width: 22px;
+    height: 22px;
 
+}
