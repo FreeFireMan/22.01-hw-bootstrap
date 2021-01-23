@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.bg-violet {
+    background-color: #6964e2;
+}
+.br {
+    border-radius: 10%;
+}
+
+.logo {
+    height: 50px;
+    width: 110px;
+    margin-top: 10px;
+}
+svg {
+    margin-right: 10px;
+}
