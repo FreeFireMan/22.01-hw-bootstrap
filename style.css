@@ -14,17 +14,20 @@
 .w150 {
     width: 150px;
 }
-.m40 {
-    margin-top: 40px;
-}
-.m20 {
-    margin: 0 20px;
+.w200 {
+    width: 200px;
 }
 .w30 {
     width: 30%
 }
 .w90 {
     width: 90%;
+}
+.m40 {
+    margin-top: 40px;
+}
+.m20 {
+    margin: 0 20px;
 }
 
 
@@ -34,7 +37,6 @@
 }
 
 .container {
-    position: relative;
     top: -440px;
 }
 .logo {
@@ -65,7 +67,9 @@ img {
     margin-left: 9%;
 }
 .arrow {
-    width: 22px;
-    height: 22px;
-
+    width: 15px;
+    height: 15px;
+}
+.mr-3 {
+    border-radius: 50%;
 }
